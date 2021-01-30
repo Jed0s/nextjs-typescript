@@ -1,6 +1,6 @@
 import Head from 'next/head';
 
-import { Home } from '../src/home/Home';
+import { Home } from '@home/Home';
 
 export const IndexPage = () => {
   return (
